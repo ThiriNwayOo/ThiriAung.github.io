@@ -1,0 +1,78 @@
+
+#bar{
+	-fx-background-color:#8080ff;
+}
+#menu1{
+	-fx-background-color:#cca0f3;
+	-fx-font-family:'Algerian';
+	-fx-font-weigth:bolder;
+	-fx-font-size:15;
+	-fx-text-fill:#ffff00;
+}
+#menu2{
+	-fx-background-color: #ffff64;
+	-fx-font-family:'Algerian';
+	-fx-font-weigth:bolder;
+	-fx-font-size:15;
+	-fx-text-fill:#3c0077;
+}
+#toppane{
+	-fx-background-color:#0080c0;
+}
+#dashboard{
+	
+	-fx-font-size:20;
+	-fx-font-weight:bolder;
+}
+.option
+{
+	-fx-background-color:#0080c0;
+	-fx-padding: 10 40;
+}
+#header{
+	-fx-text-fill:red;
+	-fx-font-family:'Algerian';	
+	-fx-text-alignment:CENTER;	
+	-fx-font-size:32;	
+	-fx-font-weight:bolder;
+	-fx-font-style:italic;
+}
+.btn{
+	-fx-padding:10 20;
+	-fx-font-size:19;
+	-fx-font-weight:bold;
+	-fx-border-style:solid;
+	-fx-border-width:5;
+	-fx-border-color:rgb(255, 0, 255);
+	-fx-border-radius:10%;
+	-fx-text-fill:#004040;	
+}
+.btnregister
+{
+	-fx-background-color:#00FF00;
+	
+}
+.btnclear
+{
+	-fx-background-color:rgb(0, 128, 192);	
+}
+#mainpane{
+	-fx-background-color:linear-gradient(white,gold,white);
+}
+.focusstyle{
+	-fx-background-color:gray;
+}
+.focusstyle:hover{
+	-fx-background-color:pink;
+}
+.radio-button:selected{
+	-fx-text-fill:green;
+	-fx-font-size:19;
+}
+.button:hover{
+	-fx-background-color:#770e72;
+}
+.err{
+	-fx-text-fill:red;
+}
+
